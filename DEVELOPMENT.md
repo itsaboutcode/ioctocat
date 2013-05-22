@@ -17,7 +17,7 @@ In order to build iOctocat on your own, install the following prerequisites:
 
   * Run the bootstrap shell script:
 
-        ./bootstrap.sh
+        sudo ./bootstrap.sh
 
     This does the following things you can otherwise do manually:
 
